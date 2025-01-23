@@ -1,0 +1,2 @@
+# wheather-cast
+static website
